@@ -1,0 +1,27 @@
+{
+  "name": "nukebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "Jacob Keil",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.6",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.0",
+    "ytdl-core": "^3.2.0"
+  }
+}

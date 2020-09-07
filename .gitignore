@@ -1,0 +1,7 @@
+/node_modules
+/src/Databases
+/src/commands/add_delete
+/src/commands/info/overwatchinfo.js
+/src/commands/roles
+.env
+package-lock.json
